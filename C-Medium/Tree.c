@@ -1,3 +1,6 @@
+//Trikidou Eleonora
+/*Christmas tree - User specifies the height
+*/
 #include <stdio.h>
 #include <stdlib.h>
 
